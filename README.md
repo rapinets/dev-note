@@ -1,3 +1,2 @@
 # dev-note
-##### collaborators: 
-rapinec, artday
+##### collaborators: rapinec, artday
